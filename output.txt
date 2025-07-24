@@ -1,0 +1,11 @@
+#0;#are;#1;#f2.txt;#1;
+#7;#hi;#3;#f1.txt;#2;#f3.txt;#1;#f4.txt;#1;
+#7;#hello;#1;#f1.txt;#1;
+#7;#HELLO;#1;#f1.txt;#1;
+#7;#how;#1;#f2.txt;#1;
+#8;#is;#1;#f4.txt;#1;
+#8;#inverted;#1;#f4.txt;#1;
+#18;#search;#1;#f4.txt;#1;
+#19;#this;#1;#f4.txt;#1;
+#20;#u;#1;#f2.txt;#1;
+#22;#WORLD;#1;#f1.txt;#1;
